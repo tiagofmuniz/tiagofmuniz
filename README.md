@@ -1,15 +1,14 @@
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40" alt="HTML5" />
+<div>
+<img src="https://github.com/tiagofmuniz/img/blob/master/giphy.gif"  width="200px" alt="HTML5" />
+</div>
 
-
-
-### Oi! Eu sou o Tiago Ferreira Muniz.
+### Oi! Eu sou o Tiago Ferreira Muniz,
+<p>um entusiasta do desenvolvimento de software, ainda no início da minha jornada, com cerca de um ano e meio de experiência.  Programar para mim é como brincar de ser um criador, dando vida a ideias e escrevendo o código genético das máquinas. Às vezes, é como tentar se comunicar com um alienígena, explorando padrões de comunicação para entender e ser compreendido. Em resumo, apaixonado por transformar ideias em realidade através da programação.</p>
 
 - 🔭 Atualmente estou no último período da graduação de sistemas de informação.
 - 🌱 Estudando nextJs e Typescriipt
 - 📫 Contate-me no email tiagofmuniz2023@gmail.com
-- 😄 Pronouns: Ele/Dele
   
-[![MasterHead](your image link)](your GitHub link)
  <div style="display: inline_block">
  </br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40" alt="HTML5" />
