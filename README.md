@@ -2,8 +2,10 @@
 <img src="https://github.com/tiagofmuniz/img/blob/master/giphy.gif"  width="200px" alt="HTML5" />
 </div>
 
-### Oi! Eu sou o Tiago Ferreira Muniz,
-<p>um entusiasta do desenvolvimento de software, ainda no início da minha jornada, com cerca de um ano e meio de experiência.  Programar para mim é como brincar de ser um criador, dando vida a ideias e escrevendo o código genético das máquinas. Às vezes, é como tentar se comunicar com um alienígena, explorando padrões de comunicação para entender e ser compreendido. Em resumo, apaixonado por transformar ideias em realidade através da programação.</p>
+### Oi! Eu sou o Tiago Muniz,
+<p>Sou um entusiasta do desenvolvimento de software, atualmente nos primeiros passos da minha jornada. Para mim, programar é mais do que simplesmente escrever código; é como brincar de ser um criador, infundindo vida em ideias e esculpindo o código genético das máquinas. Em certos momentos, é como desvendar um idioma alienígena, explorando padrões de comunicação para entender e ser compreendido.</p>
+
+<p>Em resumo, sou apaixonado por transformar ideias em realidade por meio da programação. Estou ansioso para mergulhar ainda mais nesse universo fascinante e contribuir para a construção de soluções inovadoras.</p>
 
 - 🔭 Atualmente estou no último período da graduação de sistemas de informação.
 - 🌱 Estudando nextJs e Typescriipt
